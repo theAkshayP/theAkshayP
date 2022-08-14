@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshayaap&layout=compact&theme=radical)
 
 ![Alt text](https://Akshayaap.github.io/assets/hackerman.svg)
-<img src="https://Akshayaap.github.io/assets/hackerman.svg">
