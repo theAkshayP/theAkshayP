@@ -22,11 +22,6 @@ Here are some ideas to get you started:
 ![Alt text](https://Akshayaap.github.io/assets/hackerman.svg)
 
 
-
-<h1 align="center">You're Awesome :)</h1>
-
-<h3 align="center">... and I'm Vishnu</h3>
-
 ### 📈 GitHub Stats
 
 <p align="center">
