@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-![Alt text](https://Akshayaap.github.io/assets/hackerman.svg)
+![Alt text](hackerman.svg)
 
