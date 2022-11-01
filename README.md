@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I am Akshay Parmar
 
 <!--
 **Akshayaap/Akshayaap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-### 📈 GitHub Stats
-
 <p align="center">
 <a href="https://github.com/Akshayaap">
  <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akshayaap&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -25,5 +23,5 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-![Alt text](hackerman.svg)
+![Hackerman](hackerman.svg)
 
