@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 
 ![Hackerman](hackerman.svg)
 
+![Snake Game](contributions.svg)
+
