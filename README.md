@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshayaap&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshayaap&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshayaap&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshayaap&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshayaap&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshayaap&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshayaap&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshayaap&theme=tokyonight&utcOffset=8)
 
 <p align="center">
 <a href="https://github.com/Akshayaap">
