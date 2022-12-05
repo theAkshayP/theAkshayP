@@ -20,12 +20,9 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshayaap&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshayaap&theme=tokyonight&utcOffset=8)
 
-<p align="center">
-<a href="https://github.com/Akshayaap">
- <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akshayaap&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akshayaap&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-</p>
+
+![]([http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshayaap&theme=tokyonight&utcOffset=8](https://github-readme-stats-eight-theta.vercel.app/api?username=Akshayaap&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true))
+![]([http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshayaap&theme=tokyonight&utcOffset=8](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akshayaap&layout=compact&langs_count=8&theme=tokyonight)
 
 ![Hackerman](hackerman.svg)
 
