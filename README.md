@@ -15,14 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshayaap&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshayaap&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshayaap&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshayaap&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshayaap&theme=tokyonight&utcOffset=8)
 
 
 ![](https://github-readme-stats-eight-theta.vercel.app/api?username=Akshayaap&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akshayaap&layout=compact&langs_count=8&theme=tokyonight)
 
 ![Hackerman](hackerman.svg)
 
