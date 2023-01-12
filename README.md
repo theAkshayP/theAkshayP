@@ -23,6 +23,3 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats-eight-theta.vercel.app/api?username=Akshayaap&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ![Hackerman](hackerman.svg)
-
-![Snake Game](contributions.svg)
-
